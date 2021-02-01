@@ -1,0 +1,3 @@
+﻿  1270jisu.cpp
+C:\Users\user\source\repos\baekjoon\baekjoon\1270jisu.cpp(34,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  baekjoon.vcxproj -> C:\Users\user\source\repos\baekjoon\Debug\baekjoon.exe
