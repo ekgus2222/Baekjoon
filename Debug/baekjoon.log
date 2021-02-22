@@ -1,10 +1,6 @@
-﻿  1541.cpp
-C:\Users\user\source\repos\baekjoon\baekjoon\1541.cpp(31,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\user\source\repos\baekjoon\baekjoon\1541.cpp(50,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\user\source\repos\baekjoon\baekjoon\1541.cpp(62,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\user\source\repos\baekjoon\baekjoon\1541.cpp(96,26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\user\source\repos\baekjoon\baekjoon\1541.cpp(101,26): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
-C:\Users\user\source\repos\baekjoon\baekjoon\1541.cpp(39,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\user\source\repos\baekjoon\baekjoon\1541.cpp(41,17): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\user\source\repos\baekjoon\baekjoon\1541.cpp(46,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  2551.cpp
+C:\Users\user\source\repos\baekjoon\baekjoon\2551.cpp(79,39): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\baekjoon\baekjoon\2551.cpp(91,35): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\baekjoon\baekjoon\2551.cpp(13,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\source\repos\baekjoon\baekjoon\2551.cpp(25,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   baekjoon.vcxproj -> C:\Users\user\source\repos\baekjoon\Debug\baekjoon.exe
